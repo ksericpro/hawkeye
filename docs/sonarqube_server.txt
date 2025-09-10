@@ -1,0 +1,4 @@
+SonarQube ID information
+Server ID: 9CFC3560-AZkTQf91UiA2yTn0wl0g
+Version: 2025.4.2.112048
+Date: 2025-09-04
