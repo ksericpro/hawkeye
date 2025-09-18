@@ -104,3 +104,17 @@ Agile: Agile is a broad philosophy or mindset for project management, outlined i
 Waterfall: This is a traditional, linear project management methodology. The "plan" is created in great detail upfront, and each phase (e.g., requirements, design, development, testing) must be completed before the next one begins. There is no flexibility to go back and change things once a phase is complete.
 
 Kanban: This is another Agile framework, but it's focused on continuous flow. The "plan" is less about fixed sprints and more about visualizing the workflow on a board and limiting the amount of "Work in Progress" (WIP). When a team member finishes a task, they pull a new one from the backlog.
+
+# Kanban
+# The Pure Kanban Philosophy
+In its purest, most theoretical form (as it came from Lean manufacturing), Kanban does not have a formal "backlog" in the same way as Scrum. The key principles of pure Kanban are:
+
+Visualize the workflow: Use a board with columns to represent your workflow stages.
+
+Limit Work in Progress (WIP): Set a maximum number of items for each column to prevent multitasking and bottlenecks.
+
+Manage Flow: Focus on the smooth, continuous movement of items through the system, not on fixed iterations.
+
+Pull System: When a team member finishes a task, they "pull" a new one from the previous column.
+
+The idea is that there is a continuous queue of work that needs to be done, and the team simply pulls the next highest-priority item when they have capacity. This is different from Scrum's approach where a team "pushes" a pre-selected set of work (the Sprint Backlog) into a time-boxed sprint.
